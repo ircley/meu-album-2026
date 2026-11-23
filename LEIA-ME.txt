@@ -1,0 +1,22 @@
+MEU ALBUM 2026 - INSTALACAO NO IPHONE
+
+1. Crie um repositorio publico no GitHub (por exemplo, meu-album-2026).
+2. Envie os arquivos DE DENTRO deste ZIP para a raiz do repositorio:
+   index.html, manifest.webmanifest, sw.js, icon-192.png, icon-512.png e .nojekyll.
+   Nao envie somente o arquivo ZIP: descompacte primeiro.
+3. No repositorio, acesse Settings > Pages.
+4. Em Build and deployment, selecione Deploy from a branch, branch main e pasta /(root), depois Save.
+5. Aguarde a publicacao e abra o endereco HTTPS gerado pelo GitHub Pages no Safari do iPhone.
+6. No Safari, toque em Compartilhar > Adicionar a Tela de Inicio > Adicionar.
+7. Abra o icone Meu Album 2026 na Tela de Inicio.
+
+NOTAS IMPORTANTES
+- As marcacoes ficam armazenadas no navegador/app deste aparelho, nao em uma conta online.
+- Nao abra pela pre-visualizacao do WhatsApp nem pelo aplicativo Arquivos.
+- Evite o modo privado. Nao apague os dados do site ou o app sem exportar um backup.
+- Uma nova instalacao em outro iPhone nao compartilha os dados automaticamente.
+- Em Relatorio > Exportar backup, salve periodicamente um arquivo .json em Arquivos/iCloud Drive.
+- Em Relatorio > Importar backup, restaure quando trocar de dispositivo.
+- Gerar PDF de faltantes abre a impressao do iPhone; use a visualizacao/impressao para compartilhar ou salvar em PDF.
+- O funcionamento offline depende do primeiro carregamento completo no Safari/icone com conexao.
+- O arquivo de origem do Google Sheets nao e alterado.
